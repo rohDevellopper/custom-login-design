@@ -10,6 +10,13 @@ Custom Login Design is a WordPress plugin that allows you to fully customize the
 - Set custom colors for heading text, labels, and links.
 - Easy-to-use interface in the WordPress admin dashboard.
 
+## Screenshots:
+![Frontend Page](screenshots/screenshot1.png)
+_This screenshot shows the final design in Login page of wordpress._
+
+![Settings Page](screenshots/screenshot2.png)
+_This screenshot shows the settings page of the plugin._
+
 ## Installation
 1. Download the plugin files.
 2. Upload the plugin to your WordPress site (via FTP or plugin installer).
